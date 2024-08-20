@@ -1,4 +1,4 @@
-# 🎶 pingeR package
+# 🛜 pingeR package
 
 ## #️⃣ Indexes
 - [Overview](#-overview)
@@ -32,6 +32,7 @@ devtools::install_github("aidinghazagh/pingeR")
 - Plot, analyze and observe the results from a candle chart
 
 ## 📚 Usage
+
 ⚠️ REQUIRED --> Run R studio as administrator
 
 ### • ping_ip()
